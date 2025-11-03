@@ -1,50 +1,105 @@
-# 📉 Customer Churn Analysis and Prediction Using EDA  
+<h1 align="center">📉 Customer Churn Analysis and Prediction Using EDA</h1>
+<h3 align="center"><i>🔍 "Turning Data Into Decisions — Predicting Customer Loyalty Through Analytics"</i></h3>
 
-Welcome to my **Customer Churn Analysis and Prediction** project!  
-This guided project provided me with the opportunity to explore how data analytics can help businesses address critical challenges.  
-
-Using **Jupyter Notebook** and various **Python libraries**, I analyzed telecom company data to uncover patterns in customer behavior and predict churn rates. Special thanks to the **WsCube Tech YouTube channel** for guiding me through this insightful journey.  
-
----
-
-## 🌟 Project Overview  
-
-The telecom industry often faces challenges related to customer churn, which directly impacts revenue and growth.  
-This project focuses on analyzing the factors contributing to churn and predicting the likelihood of a customer leaving.  
-
-### Project Objectives:  
-- **Understand Customer Behavior**: Explore customer demographics, usage patterns, and other relevant factors.  
-- **Identify Key Drivers of Churn**: Analyze the reasons behind customer churn.  
-- **Build Actionable Insights**: Provide recommendations to reduce churn rates.  
-
-Using **Exploratory Data Analysis (EDA)** techniques, I transformed raw data into meaningful insights that can drive strategic decision-making.  
+<p align="center">
+  <img src="https://img.shields.io/badge/Tool-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Type-Guided%20Project-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Source-WsCube%20Tech-009688?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📊 Key Features  
+<h2>📖 Project Overview</h2>
 
-- **Exploratory Data Analysis (EDA)**:  
-  - Cleaned and preprocessed telecom customer data.  
-  - Analyzed demographic, usage, and subscription-based features affecting churn.  
+<p>
+Welcome to my <b>Customer Churn Analysis and Prediction</b> project!  
+This guided project helped me explore how <b>data analytics and visualization</b> can empower businesses to understand and reduce customer churn — a critical factor in retaining loyal customers.  
+</p>
 
-- **Visualizations**:  
-  - Distribution of churn rates by customer demographics.  
-  - Trends in usage patterns leading to customer churn.  
-  - Insights into the impact of contract type, tenure, and additional services on churn.  
-
-- **Actionable Recommendations**:  
-  - Identified high-risk customer groups.  
-  - Suggested personalized retention strategies to improve customer loyalty.  
+<p>
+Using <b>Python</b> and <b>Jupyter Notebook</b>, I analyzed a telecom company’s customer dataset to uncover key behavioral patterns, identify reasons behind churn, and suggest actionable retention strategies.  
+This project was guided by the <b>WsCube Tech YouTube channel</b>, providing a structured yet practical learning experience.
+</p>
 
 ---
 
-## 🛠️ Tools Used  
+<h2>🎯 Project Objectives</h2>
 
-- **Jupyter Notebook**: For data analysis and visualization.  
-- **Python Libraries**:  
-  - Pandas: Data cleaning and manipulation.  
-  - Matplotlib & Seaborn: Data visualization.  
-  - NumPy: Numerical operations.  
+<ul>
+  <li>👥 <b>Understand Customer Behavior:</b> Explore demographics, usage patterns, and contract details.</li>
+  <li>🚨 <b>Identify Key Drivers of Churn:</b> Determine what factors most influence customer attrition.</li>
+  <li>💡 <b>Build Actionable Insights:</b> Use EDA to generate business-driven retention strategies.</li>
+</ul>
 
 ---
 
+<h2>📊 Key Features</h2>
+
+<ul>
+  <li>🧹 <b>Data Cleaning & Preprocessing:</b> Handled missing values, outliers, and inconsistent records.</li>
+  <li>📈 <b>Exploratory Data Analysis (EDA):</b> Studied correlations between demographics, service plans, and churn behavior.</li>
+  <li>📊 <b>Visual Insights:</b> Created detailed visualizations showing churn trends by contract type, payment method, and tenure.</li>
+  <li>💬 <b>Recommendations:</b> Suggested strategies to retain high-risk customers and boost loyalty.</li>
+</ul>
+
+---
+
+<h2>🧠 Insights Discovered</h2>
+
+<ul>
+  <li>📉 Customers with month-to-month contracts were <b>most likely to churn</b>.</li>
+  <li>💸 Customers with electronic payment methods showed <b>higher churn rates</b>.</li>
+  <li>📅 Longer-tenure customers were <b>less likely to churn</b> — indicating loyalty growth over time.</li>
+</ul>
+
+---
+
+<h2>🛠 Tools & Technologies Used</h2>
+
+<table>
+  <tr><th>Tool / Library</th><th>Purpose</th></tr>
+  <tr><td>🐍 <b>Python</b></td><td>Main programming language for analysis</td></tr>
+  <tr><td>📓 <b>Jupyter Notebook</b></td><td>Interactive environment for data exploration</td></tr>
+  <tr><td>📊 <b>Pandas</b></td><td>Data cleaning and manipulation</td></tr>
+  <tr><td>📈 <b>Matplotlib</b></td><td>Creating static visualizations</td></tr>
+  <tr><td>🌈 <b>Seaborn</b></td><td>Advanced and styled data visualizations</td></tr>
+  <tr><td>🔢 <b>NumPy</b></td><td>Performing numerical computations</td></tr>
+</table>
+
+---
+
+<h2>📈 Project Highlights</h2>
+
+<ol>
+  <li>🧮 Conducted complete <b>EDA pipeline</b> from raw data to insights.</li>
+  <li>📊 Built <b>visual reports</b> showcasing churn distribution and risk factors.</li>
+  <li>💡 Suggested <b>targeted strategies</b> to enhance customer retention.</li>
+</ol>
+
+---
+
+<h2>📸 Visualization Preview</h2>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/your-visualization-image-link" width="700"/>
+</p>
+
+---
+
+<h2>👨‍💻 Author</h2>
+
+<p align="center">
+  <b>Pritish Gurav</b> <br>
+  Data Analyst | Power BI Developer | Python Enthusiast <br><br>
+  <a href="https://github.com/PritishGurav">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gurav-pritish-3ab57b346/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">✨ “Data doesn’t just tell you who left — it shows you how to make them stay.”</h2>
